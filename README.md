@@ -1,9 +1,8 @@
-```markdown
 # 📊 Análisis del Impacto del FOMO y Estrategias de Escasez en la Compra Impulsiva en TikTok
 **Autor:** María Yu García Muñoz  
 **Trabajo:** Trabajo de Fin de Grado (TFG) – Grado en Inteligencia y Analítica de Negocios (BIA) – Universitat de València  
 **Fecha:** Junio 2026
----
+
 
 ## 📖 Descripción
 Este proyecto analiza el efecto del **FOMO (Fear Of Missing Out)** y las **estrategias de escasez** (temporal, cuantitativa y simbólica) sobre la **intención de compra impulsiva** en TikTok, comparando tres sectores de alto impacto: **Editorial (BookTok)**, **Blindbox (Labubu)** y **PopUp Retail**.
