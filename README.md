@@ -66,7 +66,9 @@ El análisis se ha estructurado en tres etapas secuenciales:
 
 - **Encuestas:** Cuestionarios ad hoc distribuidos en español e inglés, diseñados para medir constructos psicológicos mediante escalas Likert validadas.
 - **TikTok:** Datos extraídos de 30 vídeos virales (10 por sector: Editorial, Blindbox, PopUp) y 150 comentarios analizados manualmente y mediante técnicas de NLP.
-- **Léxicos de sentimiento:** Bing Liu Sentiment Lexicon y NRC Emotion Lexicon para análisis de tono y emociones en comentarios.
+- **Léxicos de sentimiento:**
+  - **Bing Liu Sentiment Lexicon:** Para el cálculo de puntuaciones de sentimiento (positivo/negativo) y análisis de correlación con el FOMO.
+  - **NRC Emotion Lexicon:** Para el análisis multidimensional de emociones (alegría, miedo, confianza, anticipación, etc.) en los comentarios.
 
 ## 🛠️ Requisitos Técnicos
 
