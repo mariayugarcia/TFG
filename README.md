@@ -38,18 +38,27 @@ El estudio combina dos fuentes de datos complementarias: encuestas a consumidore
 El análisis se ha estructurado en tres etapas secuenciales:
 
 ### 1. Procesamiento de Encuestas y Constructos Psicológicos (01)
+
 **Fuentes:** Cuestionarios bilingües (español/inglés) con 62 participantes.  
-**Proceso:** Unificación de categorías demográficas, conversión de escalas Likert a valores numéricos, cálculo de puntuaciones compuestas para FOMO, percepción de escasez y compra impulsiva. 
+
+**Proceso:** Unificación de categorías demográficas, conversión de escalas Likert a valores numéricos, cálculo de puntuaciones compuestas para FOMO, percepción de escasez y compra impulsiva.
+
 **Output:** `df_combined_limpio.csv` (dataset unificado y estandarizado).
 
 ### 2. Análisis Estadístico Inferencial (01)
+
 **Técnicas:** Contrastes de medias (t-test de Student con corrección de Bonferroni), regresión lineal múltiple, regresión logística binomial, análisis de varianza (ANOVA) y análisis de correlación de Pearson.  
+
 **Objetivo:** Evaluar diferencias entre grupos de idioma, predecir la compra impulsiva en función de FOMO y escasez, y estimar probabilidades de compra mediante modelos logísticos.
+
 **Output:** Tablas de coeficientes de regresión, resultados ANOVA, y figuras de regresión y probabilidad predicha.
 
 ### 3. Análisis de Contenido de TikTok y NLP (02)
-**Escala:** 30 vídeos (10 por sector) + 150 comentarios analizados.  
+
+**Escala:** 30 vídeos (10 por sector) + 150 comentarios analizados. 
+
 **Técnicas:** Cálculo de ratios de engagement, análisis de sentimiento basado en léxicos (Bing Liu, NRC Emotion Lexicon), extracción de bigramas, nubes de palabras, e implementación de un sistema de recomendación de sectores basado en distancia euclidiana.  
+
 **Métricas:** Ratio de engagement (likes + comentarios + compartidos / vistas × 100), distribución emocional por sector, e intención de compra en comentarios.
 
 
