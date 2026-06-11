@@ -1,4 +1,4 @@
-# 📊 Análisis del Impacto del FOMO y Estrategias de Escasez en la Compra Impulsiva en TikTok
+# 📊 El impacto del FOMO y las estrategias de escasez en la compra impulsiva en TikTok: un análisis comparativo entre sectores
 **Autor:** María Yu García Muñoz  
 **Trabajo:** Trabajo de Fin de Grado (TFG) – Grado en Inteligencia y Analítica de Negocios (BIA) – Universitat de València  
 **Fecha:** Junio 2026
@@ -7,7 +7,7 @@
 ## 📖 Descripción
 Este proyecto analiza el efecto del **FOMO (Fear Of Missing Out)** y las **estrategias de escasez** (temporal, cuantitativa y simbólica) sobre la **intención de compra impulsiva** en TikTok, comparando tres sectores de alto impacto: **Editorial (BookTok)**, **Blindbox (Labubu)** y **PopUp Retail**.
 
-El estudio combina dos fuentes de datos complementarias: encuestas a consumidores (bilingüe español/inglés, n=62) para medir constructos psicológicos, y análisis de contenido de TikTok (n=30 vídeos + n=450 comentarios) para evaluar métricas de engagement, tono emocional (eWOM) y patrones de sentimiento mediante técnicas de NLP.
+El estudio combina dos fuentes de datos complementarias: encuestas a consumidores (bilingüe español/inglés, n=62) para medir constructos psicológicos, y análisis de contenido de TikTok (n = 30 vídeos + n = 150 comentarios) para evaluar métricas de engagement, tono emocional (eWOM) y patrones de sentimiento mediante técnicas de NLP.
 
 
 ## 🏗️ Estructura del Repositorio
@@ -23,30 +23,13 @@ El estudio combina dos fuentes de datos complementarias: encuestas a consumidore
 │   ├── Cuestionario TFG.csv         # Encuesta en español
 │   ├── Videos_TikTok.xlsx           # Métricas y codificación de los 30 vídeos
 │   └── Comentarios_traducidos.xlsx  # Comentarios analizados con codificación eWOM
-├── 📂 csv/                           # Datasets intermedios y limpios
+├── 📂 csv/                           # Datasets limpios
 │   ├── df_combined_limpio.csv
 │   ├── df_regresion_limpio.csv
 │   └── df_logit_limpio.csv
 ├── 📂 tablas/                        # Tablas finales exportadas para el documento
-│   ├── Tabla_contraste_medias_idiomas.csv
-│   ├── Tabla_descriptivos_constructos.csv
-│   ├── Tabla_correlaciones.csv
-│   ├── Tabla_regresion_lineal.csv
-│   ├── Tabla_regresion_logistica.csv
-│   ├── Tabla_ANOVA_exposicion.csv
-│   ├── Tabla_comparativa_sectores.csv
-│   ├── Tabla_bigramas_frecuentes.csv
-│   ├── Tabla_sistema_recomendacion.csv
-│   └── Tabla_cruzado_metricas_sectores.csv
 └── 📂 figuras/                       # Visualizaciones generadas (PNG, 300 DPI)
-    ├── p_edad.png, p_genero.png, p_usa_tiktok.png
-    ├── p_dist_fomo.png, p_dist_scar.png, p_dist_imp.png
-    ├── p_box_idioma.png, constructos_triptico.png
-    ├── p_regresion_fomo.png, p_impacto_variables.png
-    ├── p_anova.png, p_prediccion_logit.png
-    ├── TikTok_01_engagement_sector.png ... TikTok_06_fomo_vs_compra_scatter.png
-    ├── TikTok_05_emociones_NRC.png
-    └── nube_editorial.png, nube_blindbox.png, nube_popup.png
+
 ```
 
 
@@ -56,7 +39,7 @@ El análisis se ha estructurado en tres etapas secuenciales:
 
 ### 1. Procesamiento de Encuestas y Constructos Psicológicos (01)
 **Fuentes:** Cuestionarios bilingües (español/inglés) con 62 participantes.  
-**Proceso:** Unificación de categorías demográficas, conversión de escalas Likert a valores numéricos, cálculo de puntuaciones compuestas para FOMO, percepción de escasez y compra impulsiva.  
+**Proceso:** Unificación de categorías demográficas, conversión de escalas Likert a valores numéricos, cálculo de puntuaciones compuestas para FOMO, percepción de escasez y compra impulsiva. 
 **Output:** `df_combined_limpio.csv` (dataset unificado y estandarizado).
 
 ### 2. Análisis Estadístico Inferencial (01)
@@ -65,7 +48,7 @@ El análisis se ha estructurado en tres etapas secuenciales:
 **Output:** Tablas de coeficientes de regresión, resultados ANOVA, y figuras de regresión y probabilidad predicha.
 
 ### 3. Análisis de Contenido de TikTok y NLP (02)
-**Escala:** 30 vídeos (10 por sector) + 450 comentarios analizados.  
+**Escala:** 30 vídeos (10 por sector) + 150 comentarios analizados.  
 **Técnicas:** Cálculo de ratios de engagement, análisis de sentimiento basado en léxicos (Bing Liu, NRC Emotion Lexicon), extracción de bigramas, nubes de palabras, e implementación de un sistema de recomendación de sectores basado en distancia euclidiana.  
 **Métricas:** Ratio de engagement (likes + comentarios + compartidos / vistas × 100), distribución emocional por sector, e intención de compra en comentarios.
 
@@ -73,7 +56,7 @@ El análisis se ha estructurado en tres etapas secuenciales:
 ## 📂 Fuentes de Datos
 
 - **Encuestas:** Cuestionarios ad hoc distribuidos en español e inglés, diseñados para medir constructos psicológicos mediante escalas Likert validadas.
-- **TikTok:** Datos extraídos de 30 vídeos virales (10 por sector: Editorial, Blindbox, PopUp) y 450 comentarios analizados manualmente y mediante técnicas de NLP.
+- **TikTok:** Datos extraídos de 30 vídeos virales (10 por sector: Editorial, Blindbox, PopUp) y 150 comentarios analizados manualmente y mediante técnicas de NLP.
 - **Léxicos de sentimiento:** Bing Liu Sentiment Lexicon y NRC Emotion Lexicon para análisis de tono y emociones en comentarios.
 
 ## 🛠️ Requisitos Técnicos
