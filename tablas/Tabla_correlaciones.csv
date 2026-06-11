@@ -1,0 +1,10 @@
+Constructo_1,Constructo_2,Correlacion
+score_fomo,score_fomo,1
+score_scar,score_fomo,0.6502810687087557
+score_imp,score_fomo,0.7706671015268668
+score_fomo,score_scar,0.6502810687087557
+score_scar,score_scar,1
+score_imp,score_scar,0.6952457000053396
+score_fomo,score_imp,0.7706671015268668
+score_scar,score_imp,0.6952457000053396
+score_imp,score_imp,1
