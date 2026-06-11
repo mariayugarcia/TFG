@@ -1,0 +1,63 @@
+Timestamp,age,gender,social_media_freq,uses_tiktok,tiktok_hours,prod_content_freq,discovered_products,fomo_1,fomo_2,fomo_3,fomo_4,fomo_5,scar_1,scar_2,scar_3,scar_4,scar_5,imp_1,imp_2,imp_3,imp_4,imp_5,imp_6,imp_7,bought_last_3m,buy_freq,language,score_fomo,score_scar,score_imp,compra_impulsiva,fomo,escasez,usa_tiktok,tiempo_tiktok
+2026/04/23 5:15:30 pm EET,22-25,Femenino,Several times a day,Sí,1 - 2 h,A veces,Yes,3,3,4,2,3,3,1,3,2,2,4,2,2,2,3,3,3,Sí,Rara vez,Inglés,3,2.2,2.7142857142857144,2.7142857142857144,3,2.2,1,1.5
+2026/04/23 5:46:21 pm EET,18-21,Femenino,Several times a day,No,< 30 min,Muy frecuentemente,No,3,1,1,1,2,3,4,3,2,3,3,1,1,1,1,3,1,No,Nunca,Inglés,1.6,3,1.5714285714285714,1.5714285714285714,1.6,3,0,0.5
+2026/04/23 6:26:12 pm EET,22-25,Masculino,Several times a day,No,< 30 min,A veces,No,2,2,1,4,2,4,2,5,4,3,4,1,4,1,1,1,1,No,Nunca,Inglés,2.2,3.6,1.8571428571428572,1.8571428571428572,2.2,3.6,0,0.5
+2026/04/23 6:32:58 pm EET,18-21,Femenino,Several times a day,Sí,30 min - 1 h,Frecuentemente,Yes,3,2,1,2,5,3,1,3,2,3,1,4,2,1,3,4,4,Sí,Rara vez,Inglés,2.6,2.4,2.7142857142857144,2.7142857142857144,2.6,2.4,1,1
+2026/04/23 8:32:18 pm EET,18-21,Masculino,Several times a day,Sí,1 - 2 h,Rara vez,No,3,2,1,1,4,2,3,1,1,1,1,1,1,1,1,1,1,No,Rara vez,Inglés,2.2,1.6,1,1,2.2,1.6,1,1.5
+2026/04/23 8:36:53 pm EET,18-21,Femenino,Several times a day,Sí,> 2 h,Rara vez,No,1,1,1,1,2,2,1,1,1,1,2,2,1,1,1,1,1,No,Nunca,Inglés,1.2,1.2,1.2857142857142858,1.2857142857142858,1.2,1.2,1,2
+2026/04/23 9:48:58 pm EET,18-21,Masculino,Several times a day,No,< 30 min,Muy frecuentemente,No,2,1,1,1,2,1,1,3,2,1,1,1,1,1,1,1,1,No,Nunca,Inglés,1.4,1.6,1,1,1.4,1.6,0,0.5
+2026/04/24 3:56:30 am EEST,26-30,Femenino,Several times a day,Sí,< 30 min,Frecuentemente,No,4,5,1,1,3,3,3,4,2,3,3,4,3,2,2,3,2,No,Rara vez,Inglés,2.8,3,2.7142857142857144,2.7142857142857144,2.8,3,1,0.5
+2026/04/24 5:21:20 am EEST,18-21,Femenino,Several times a day,Sí,1 - 2 h,A veces,Yes,3,3,2,3,4,2,2,3,2,3,3,2,2,2,3,3,3,Sí,Rara vez,Inglés,3,2.4,2.5714285714285716,2.5714285714285716,3,2.4,1,1.5
+2026/04/24 5:40:32 am EEST,31-40,Masculino,Several times a day,Sí,< 30 min,Frecuentemente,Yes,1,2,1,5,1,5,3,4,3,3,5,1,1,3,1,1,1,No,Nunca,Inglés,2,3.6,1.8571428571428572,1.8571428571428572,2,3.6,1,0.5
+2026/04/24 10:18:44 am EEST,18-21,Masculino,Several times a day,Sí,< 30 min,Frecuentemente,Yes,1,1,3,2,4,5,1,5,1,2,1,1,3,1,3,4,1,No,Nunca,Inglés,2.2,2.8,2,2,2.2,2.8,1,0.5
+2026/04/24 12:56:41 pm EEST,18-21,Femenino,Several times a day,Sí,> 2 h,Muy frecuentemente,Yes,4,4,3,5,5,5,5,5,5,3,3,4,4,5,5,5,5,Sí,Muy frecuentemente,Inglés,4.2,4.6,4.428571428571429,4.428571428571429,4.2,4.6,1,2
+2026/04/28 5:07:30 pm EEST,18-21,Femenino,Several times a day,Sí,30 min - 1 h,A veces,No,2,2,3,4,1,3,1,1,1,1,1,1,1,1,2,3,2,No,A veces,Inglés,2.4,1.4,1.5714285714285714,1.5714285714285714,2.4,1.4,1,1
+2026/04/28 5:30:20 pm EEST,22-25,Femenino,Several times a day,No,< 30 min,A veces,No,2,1,1,4,2,3,4,5,3,5,4,3,1,2,1,1,1,No,Rara vez,Inglés,2,4,1.8571428571428572,1.8571428571428572,2,4,0,0.5
+2026/04/28 5:36:14 pm EEST,22-25,Femenino,Several times a day,Sí,> 2 h,Frecuentemente,Yes,1,3,1,3,2,1,3,1,1,1,4,2,2,1,4,3,3,No,Rara vez,Inglés,2,1.4,2.7142857142857144,2.7142857142857144,2,1.4,1,2
+2026/05/01 4:34:10 pm EEST,22-25,Femenino,Several times a day,Sí,30 min - 1 h,Muy frecuentemente,Yes,4,4,3,3,4,5,5,5,4,4,5,5,5,3,4,4,5,Sí,A veces,Inglés,3.6,4.6,4.428571428571429,4.428571428571429,3.6,4.6,1,1
+2026/04/23 5:11:36 pm EET,18-21,Femenino,Varias veces al día,Sí,30 min - 1 h,Rara vez,Sí,3,1,1,1,1,4,1,3,2,2,2,1,1,2,1,1,1,No,Nunca,Español,1.4,2.4,1.2857142857142858,1.2857142857142858,1.4,2.4,1,1
+2026/04/23 5:15:09 pm EET,22-25,Femenino,Varias veces al día,Sí,1 - 2 h,A veces,No,3,4,4,4,3,2,3,4,2,3,4,4,3,4,2,2,2,Sí,A veces,Español,3.6,2.8,3,3,3.6,2.8,1,1.5
+2026/04/23 5:16:15 pm EET,18-21,No binario/Otro,Varias veces al día,Sí,1 - 2 h,Rara vez,No,1,1,1,3,1,1,1,1,3,1,1,1,1,1,1,1,1,No,Nunca,Español,1.4,1.4,1,1,1.4,1.4,1,1.5
+2026/04/23 5:20:48 pm EET,18-21,Masculino,Varias veces al día,Sí,1 - 2 h,Rara vez,Sí,1,1,1,1,1,3,1,2,1,1,3,1,1,1,2,2,3,Sí,Rara vez,Español,1,1.6,1.8571428571428572,1.8571428571428572,1,1.6,1,1.5
+2026/04/23 5:59:14 pm EET,26-30,Femenino,Varias veces al día,Sí,< 30 min,Rara vez,No,3,2,2,3,4,4,2,2,1,2,3,2,2,1,1,1,1,No,Nunca,Español,2.8,2.2,1.5714285714285714,1.5714285714285714,2.8,2.2,1,0.5
+2026/04/23 6:02:52 pm EET,18-21,Femenino,Varias veces al día,Sí,30 min - 1 h,A veces,Sí,1,2,1,3,2,1,2,4,4,4,2,1,1,1,1,3,3,No,Nunca,Español,1.8,3,1.7142857142857142,1.7142857142857142,1.8,3,1,1
+2026/04/23 6:04:58 pm EET,22-25,Femenino,Varias veces al día,Sí,1 - 2 h,A veces,No,2,2,1,3,3,1,2,3,2,5,2,1,2,1,1,1,1,No,Rara vez,Español,2.2,2.6,1.2857142857142858,1.2857142857142858,2.2,2.6,1,1.5
+2026/04/23 6:07:51 pm EET,18-21,Masculino,Varias veces al día,Sí,30 min - 1 h,A veces,Sí,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,2,No,Nunca,Español,1,1,1.5714285714285714,1.5714285714285714,1,1,1,1
+2026/04/23 6:07:59 pm EET,22-25,Femenino,Varias veces al día,Sí,1 - 2 h,A veces,Sí,1,1,1,2,4,3,2,1,1,4,1,2,1,3,2,4,3,No,Rara vez,Español,1.8,2.2,2.2857142857142856,2.2857142857142856,1.8,2.2,1,1.5
+2026/04/23 6:47:30 pm EET,22-25,Femenino,Varias veces al día,Sí,1 - 2 h,Muy frecuentemente,Sí,4,3,3,3,4,2,4,1,2,2,1,1,1,1,4,2,4,No,Rara vez,Español,3.4,2.2,2,2,3.4,2.2,1,1.5
+2026/04/23 6:48:33 pm EET,18-21,Femenino,Varias veces al día,Sí,> 2 h,Frecuentemente,Sí,3,4,3,4,5,5,4,4,5,4,5,4,5,5,3,3,5,Sí,A veces,Español,3.8,4.4,4.285714285714286,4.285714285714286,3.8,4.4,1,2
+2026/04/23 7:24:33 pm EET,22-25,Femenino,Varias veces al día,No,< 30 min,Rara vez,Sí,1,2,1,2,3,3,2,4,3,2,4,4,3,3,1,2,1,No,Nunca,Español,1.8,2.8,2.5714285714285716,2.5714285714285716,1.8,2.8,0,0.5
+2026/04/23 7:40:01 pm EET,18-21,Femenino,Varias veces al día,Sí,30 min - 1 h,Muy frecuentemente,Sí,3,3,2,2,4,2,4,3,2,4,2,4,4,2,4,4,5,Sí,A veces,Español,2.8,3,3.5714285714285716,3.5714285714285716,2.8,3,1,1
+2026/04/23 7:59:58 pm EET,18-21,Femenino,Varias veces al día,Sí,> 2 h,Muy frecuentemente,Sí,1,1,2,4,2,4,1,1,1,4,1,4,4,1,1,3,1,No,Nunca,Español,2,2.2,2.142857142857143,2.142857142857143,2,2.2,1,2
+2026/04/23 8:03:28 pm EET,18-21,Masculino,Varias veces al día,Sí,< 30 min,Rara vez,No,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,No,Nunca,Español,1.2,1,1,1,1.2,1,1,0.5
+2026/04/23 8:04:36 pm EET,18-21,Masculino,Varias veces al día,Sí,> 2 h,Muy frecuentemente,Sí,5,5,5,4,3,3,2,3,4,3,5,3,2,1,4,4,2,Sí,A veces,Español,4.4,3,3,3,4.4,3,1,2
+2026/04/23 8:11:09 pm EET,18-21,Femenino,Varias veces al día,Sí,1 - 2 h,Frecuentemente,Sí,5,3,3,4,4,4,5,5,4,3,2,2,3,4,4,4,4,Sí,Frecuentemente,Español,3.8,4.2,3.2857142857142856,3.2857142857142856,3.8,4.2,1,1.5
+2026/04/23 8:18:51 pm EET,18-21,Femenino,Varias veces al día,Sí,1 - 2 h,Frecuentemente,Sí,4,5,2,4,4,1,1,1,1,1,1,1,1,1,3,5,5,Sí,Rara vez,Español,3.8,1,2.4285714285714284,2.4285714285714284,3.8,1,1,1.5
+2026/04/23 8:25:29 pm EET,22-25,Femenino,Varias veces al día,Sí,> 2 h,Frecuentemente,Sí,3,2,1,2,1,2,1,2,1,3,1,1,1,1,1,3,4,No,Rara vez,Español,1.8,1.8,1.7142857142857142,1.7142857142857142,1.8,1.8,1,2
+2026/04/23 8:32:38 pm EET,18-21,Masculino,Varias veces al día,Sí,1 - 2 h,A veces,Sí,1,2,1,4,3,3,2,2,1,1,1,3,2,1,2,1,1,No,Rara vez,Español,2.2,1.8,1.5714285714285714,1.5714285714285714,2.2,1.8,1,1.5
+2026/04/23 8:35:27 pm EET,18-21,Masculino,Varias veces al día,Sí,30 min - 1 h,A veces,No,2,1,1,2,1,1,1,3,3,1,1,1,2,2,1,1,1,No,Nunca,Español,1.4,1.8,1.2857142857142858,1.2857142857142858,1.4,1.8,1,1
+2026/04/23 8:54:23 pm EET,18-21,Femenino,Varias veces al día,No,< 30 min,A veces,Sí,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,2,1,No,Rara vez,Español,1,1.2,1.2857142857142858,1.2857142857142858,1,1.2,0,0.5
+2026/04/23 8:57:04 pm EET,22-25,Femenino,Varias veces al día,Sí,1 - 2 h,Rara vez,Sí,4,3,3,3,4,3,3,3,4,3,2,1,1,1,1,2,1,No,Nunca,Español,3.4,3.2,1.2857142857142858,1.2857142857142858,3.4,3.2,1,1.5
+2026/04/23 9:17:19 pm EET,26-30,Masculino,Varias veces al día,Sí,1 - 2 h,Muy frecuentemente,Sí,2,2,1,1,2,4,1,1,2,4,1,4,3,1,1,1,3,Sí,Rara vez,Español,1.6,2.4,2,2,1.6,2.4,1,1.5
+2026/04/23 9:22:04 pm EET,18-21,Masculino,Varias veces al día,No,< 30 min,Nunca,No,4,2,1,4,5,5,2,1,1,1,3,4,5,1,1,1,1,No,Nunca,Español,3.2,2,2.2857142857142856,2.2857142857142856,3.2,2,0,0.5
+2026/04/23 9:28:28 pm EET,26-30,Masculino,Varias veces al día,Sí,1 - 2 h,A veces,Sí,1,1,1,1,2,1,1,5,1,1,1,1,1,1,1,2,1,No,Rara vez,Español,1.2,1.8,1.1428571428571428,1.1428571428571428,1.2,1.8,1,1.5
+2026/04/23 9:29:00 pm EET,31-40,Masculino,Varias veces al día,No,< 30 min,Nunca,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,No,Nunca,Español,1,1,1,1,1,1,0,0.5
+2026/04/23 9:43:16 pm EET,18-21,Masculino,Varias veces al día,Sí,< 30 min,Rara vez,Sí,1,1,4,2,3,5,1,5,3,3,1,3,1,1,4,4,1,No,Nunca,Español,2.2,3.4,2.142857142857143,2.142857142857143,2.2,3.4,1,0.5
+2026/04/23 10:02:19 pm EET,18-21,Femenino,Varias veces al día,Sí,> 2 h,A veces,Sí,3,3,4,3,4,3,4,3,3,3,3,4,3,3,3,4,4,Sí,Rara vez,Español,3.4,3.2,3.4285714285714284,3.4285714285714284,3.4,3.2,1,2
+2026/04/23 10:24:56 pm EET,18-21,Femenino,Varias veces al día,Sí,1 - 2 h,Rara vez,Sí,3,2,2,1,2,2,1,1,1,1,1,1,1,2,3,2,1,No,Rara vez,Español,2,1.2,1.5714285714285714,1.5714285714285714,2,1.2,1,1.5
+2026/04/23 10:44:10 pm EET,22-25,Femenino,Varias veces al día,No,< 30 min,Nunca,No,3,3,2,5,4,1,1,2,4,4,5,3,4,4,1,3,1,No,Nunca,Español,3.4,2.4,3,3,3.4,2.4,0,0.5
+2026/04/23 11:22:05 pm EET,22-25,Femenino,Varias veces al día,Sí,1 - 2 h,A veces,Sí,2,2,2,3,2,1,1,1,2,2,2,1,1,1,1,1,2,No,Nunca,Español,2.2,1.4,1.2857142857142858,1.2857142857142858,2.2,1.4,1,1.5
+2026/04/24 1:06:38 am EEST,18-21,Femenino,Varias veces al día,Sí,1 - 2 h,A veces,Sí,4,3,2,4,3,3,3,4,3,3,2,2,2,2,3,3,3,No,A veces,Español,3.2,3.2,2.4285714285714284,2.4285714285714284,3.2,3.2,1,1.5
+2026/04/24 1:26:07 am EEST,26-30,Masculino,Varias veces al día,No,< 30 min,Frecuentemente,Sí,3,2,2,3,1,4,3,5,4,4,2,1,3,2,1,1,1,No,Nunca,Español,2.2,4,1.5714285714285714,1.5714285714285714,2.2,4,0,0.5
+2026/04/24 5:08:25 am EEST,22-25,Femenino,Nunca,Sí,< 30 min,Nunca,Sí,1,1,1,1,2,1,2,2,2,2,1,1,1,2,1,1,1,No,Nunca,Español,1.2,1.8,1.1428571428571428,1.1428571428571428,1.2,1.8,1,0.5
+2026/04/24 8:04:55 am EEST,18-21,Femenino,Varias veces al día,Sí,1 - 2 h,A veces,Sí,1,1,1,2,2,2,1,3,1,1,1,3,3,1,1,3,1,No,A veces,Español,1.4,1.6,1.8571428571428572,1.8571428571428572,1.4,1.6,1,1.5
+2026/04/24 12:58:41 pm EEST,18-21,Femenino,Varias veces al día,Sí,> 2 h,Muy frecuentemente,Sí,5,5,4,5,5,5,5,5,5,3,3,4,4,5,5,4,5,Sí,Muy frecuentemente,Español,4.8,4.6,4.285714285714286,4.285714285714286,4.8,4.6,1,2
+2026/04/24 3:24:00 pm EEST,18-21,Masculino,Nunca,No,< 30 min,Nunca,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,No,Nunca,Español,1,1,1,1,1,1,0,0.5
+2026/04/24 4:02:56 pm EEST,Más de 40,Masculino,Varias veces al día,No,< 30 min,Nunca,No,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,No,Nunca,Español,1,1,1,1,1,1,0,0.5
+2026/04/24 4:03:56 pm EEST,Más de 40,Femenino,Varias veces al día,Sí,< 30 min,Muy frecuentemente,No,2,3,3,3,5,4,4,1,1,2,5,2,3,1,1,4,1,No,A veces,Español,3.2,2.4,2.4285714285714284,2.4285714285714284,3.2,2.4,1,0.5
+2026/04/24 4:42:54 pm EEST,22-25,Masculino,Varias veces al día,Sí,30 min - 1 h,Frecuentemente,Sí,2,2,1,2,2,3,3,2,1,2,4,1,2,1,3,3,3,Sí,Rara vez,Español,1.8,2.2,2.4285714285714284,2.4285714285714284,1.8,2.2,1,1
+2026/04/24 5:08:02 pm EEST,18-21,Masculino,Varias veces al día,No,1 - 2 h,A veces,Sí,1,1,1,4,3,2,1,3,1,1,4,2,1,1,1,3,1,No,Rara vez,Español,2,1.6,1.8571428571428572,1.8571428571428572,2,1.6,0,1.5
+2026/04/27 1:22:53 pm EEST,Más de 40,Femenino,Varias veces al día,Sí,30 min - 1 h,A veces,Sí,2,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,No,Nunca,Español,1.2,1.4,1,1,1.2,1.4,1,1
+2026/04/28 5:51:43 pm EEST,18-21,Femenino,Varias veces al día,Sí,> 2 h,A veces,Sí,2,1,2,1,3,2,1,1,1,3,1,2,1,1,1,2,2,No,Rara vez,Español,1.8,1.6,1.4285714285714286,1.4285714285714286,1.8,1.6,1,2
+2026/04/28 5:54:21 pm EEST,18-21,Femenino,Varias veces al día,Sí,1 - 2 h,A veces,Sí,2,3,4,3,4,4,4,4,4,3,2,3,2,1,2,4,3,No,A veces,Español,3.2,3.8,2.4285714285714284,2.4285714285714284,3.2,3.8,1,1.5
+2026/04/28 11:06:14 pm EEST,18-21,Femenino,Varias veces al día,Sí,1 - 2 h,Frecuentemente,No,5,5,4,5,4,3,3,3,4,4,3,2,1,2,3,3,3,No,Rara vez,Español,4.6,3.4,2.4285714285714284,2.4285714285714284,4.6,3.4,1,1.5
