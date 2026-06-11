@@ -9,7 +9,6 @@ Este proyecto analiza el efecto del **FOMO (Fear Of Missing Out)** y las **estra
 
 El estudio combina dos fuentes de datos complementarias: encuestas a consumidores (bilingüe español/inglés, n=62) para medir constructos psicológicos, y análisis de contenido de TikTok (n=30 vídeos + n=450 comentarios) para evaluar métricas de engagement, tono emocional (eWOM) y patrones de sentimiento mediante técnicas de NLP.
 
----
 
 ## 🏗️ Estructura del Repositorio
 
@@ -50,7 +49,6 @@ El estudio combina dos fuentes de datos complementarias: encuestas a consumidore
     └── nube_editorial.png, nube_blindbox.png, nube_popup.png
 ```
 
----
 
 ## 🔧 Metodología
 
@@ -71,15 +69,12 @@ El análisis se ha estructurado en tres etapas secuenciales:
 **Técnicas:** Cálculo de ratios de engagement, análisis de sentimiento basado en léxicos (Bing Liu, NRC Emotion Lexicon), extracción de bigramas, nubes de palabras, e implementación de un sistema de recomendación de sectores basado en distancia euclidiana.  
 **Métricas:** Ratio de engagement (likes + comentarios + compartidos / vistas × 100), distribución emocional por sector, e intención de compra en comentarios.
 
----
 
 ## 📂 Fuentes de Datos
 
 - **Encuestas:** Cuestionarios ad hoc distribuidos en español e inglés, diseñados para medir constructos psicológicos mediante escalas Likert validadas.
 - **TikTok:** Datos extraídos de 30 vídeos virales (10 por sector: Editorial, Blindbox, PopUp) y 450 comentarios analizados manualmente y mediante técnicas de NLP.
 - **Léxicos de sentimiento:** Bing Liu Sentiment Lexicon y NRC Emotion Lexicon para análisis de tono y emociones en comentarios.
-
----
 
 ## 🛠️ Requisitos Técnicos
 
@@ -96,8 +91,6 @@ install.packages(c("tidytext", "textdata", "syuzhet", "sentimentr",
                    "wordcloud", "wordcloud2", "stopwords", "quanteda",
                    "topicmodels", "htmlwidgets", "webshot"))
 ```
-
----
 
 ## 📈 Resultados Principales
 
