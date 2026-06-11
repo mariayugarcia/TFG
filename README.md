@@ -45,7 +45,6 @@ El análisis se ha estructurado en tres etapas secuenciales:
 ### 2. Análisis Estadístico Inferencial (01)
 **Técnicas:** Contrastes de medias (t-test de Student con corrección de Bonferroni), regresión lineal múltiple, regresión logística binomial, análisis de varianza (ANOVA) y análisis de correlación de Pearson.  
 **Objetivo:** Evaluar diferencias entre grupos de idioma, predecir la compra impulsiva en función de FOMO y escasez, y estimar probabilidades de compra mediante modelos logísticos.
-
 **Output:** Tablas de coeficientes de regresión, resultados ANOVA, y figuras de regresión y probabilidad predicha.
 
 ### 3. Análisis de Contenido de TikTok y NLP (02)
